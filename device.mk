@@ -56,3 +56,4 @@ PRODUCT_COPY_FILES += \
 
 # Inherit from vendor blobs
 $(call inherit-product, vendor/sony/pdx206/pdx206-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
